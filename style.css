@@ -23,14 +23,13 @@ h1 {
 	text-transform: uppercase;
 	text-align: center;
 	font-family: Times New Roman;
-	color: #525252;
+	color: solid black;
 	letter-spacing: .05cm;	
 }
 
 nav {
 	height: 15px;
 	margin: 10px;
-	color: blue;
 	}
 	
 
