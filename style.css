@@ -23,7 +23,7 @@ h1 {
 	text-transform: uppercase;
 	text-align: center;
 	font-family: Times New Roman;
-	color: solid black;
+	color: green;
 	letter-spacing: .05cm;	
 }
 
@@ -35,6 +35,7 @@ nav {
 
 fieldset {
 	background: #E8E8E8;
+	color: #FF6A00;
 	}
 	
 legend {
